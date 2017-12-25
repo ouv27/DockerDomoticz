@@ -1,4 +1,4 @@
-FROM local-stretch
+FROM stretch
 MAINTAINER Josh Cox <josh 'at' webhosting.coop>
 
 ENV MKDOMOTICZ_UPDATE 20170628
